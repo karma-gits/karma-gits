@@ -54,10 +54,10 @@ I'm Data Analyst and an Artist. All coding projects are build from the ground up
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"/><!-- <img align="left" alt="text" width="30px" style="padding-right:10px;" src=" " /> --->
-<br />
+<br/>
 
 ---
-
+<br/>
 <details>
  <summary><h3>👨‍💻 Karma's Journey</h3></summary>
    For more visit my
