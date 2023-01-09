@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **'Digital Craftsman (Developer/Filmmaker/Photography/Videography)'**
 
-I'm an indie Data Analyst and an Artist. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm Data Analyst and an Artist. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code and art.
 <br />
 <!-- Social icons section -->
 
