@@ -52,8 +52,9 @@ I'm Data Analyst and an Artist. All coding projects are build from the ground up
 <img align="left" alt="SQL"src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
 <img align="left" alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-<img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"/><!-- <img align="left" alt="text" width="30px" style="padding-right:10px;" src=" " /> --->
+<img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+<img align="left" alt="premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"/> 
+<!-- <img align="left" alt="text" width="30px" style="padding-right:10px;" src=" " /> --->
 <br/>
 
 ---
@@ -61,5 +62,5 @@ I'm Data Analyst and an Artist. All coding projects are build from the ground up
 <details>
  <summary><h3>👨‍💻 Karma's Journey</h3></summary>
    For more visit my
- <li> https://www.linkedin.com/in/karmag
- <li> https://public.tableau.com/app/profile/karma.tabs       
+  <li> https://www.linkedin.com/in/karmag
+  <li> https://public.tableau.com/app/profile/karma.tabs       
