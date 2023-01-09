@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 I'm an indie Data Analyst and an Artist. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code. 
 <br />
 <!-- Social icons section -->
+
+ <p align="center">
+<a href="https://www.linkedin.com/in/karmag"> <img width="40px" alt="Linkedin" title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+ </p>
+ 
  <!--
  <p align="center">
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; ->
+  <a href="https://www.linkedin.com/in/karmag"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
@@ -55,7 +60,6 @@ I'm an indie Data Analyst and an Artist. All coding projects are build from the 
 
 <details>
  <summary><h3>👨‍💻 Karma's Journey</h3></summary>
-   For more visit my linkedin, tableau and gits.
-
-          
-       
+   For more visit my
+ <li> https://www.linkedin.com/in/karmag
+ <li> https://public.tableau.com/app/profile/karma.tabs       
