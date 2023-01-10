@@ -61,6 +61,6 @@ I'm Data Analyst and an Artist. All coding projects are build from the ground up
 <br/>
 <details>
  <summary><h3>👨‍💻 Karma's Journey</h3></summary>
-   For more visit my
+   For more:
   <li> https://www.linkedin.com/in/karmag
   <li> https://public.tableau.com/app/profile/karma.tabs       
