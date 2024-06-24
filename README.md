@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1&pause=1000&color=7FC3C0&repeat=false&width=435&lines=%E2%9C%A8+Karma+The+Analyst)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1&pause=1000&color=7FC3C0&repeat=false&width=435&lines=%E2%9C%A8+Karma+great+Analyst)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CFB845&width=435&lines=Always+learning+.+.+.)
 
-**'Digital Craftsman (Data Analyst/Filmmaker/Photography/Videography)'**
+**'Digital Craftsman (Data Scientist | Data Analyst/Filmmaker/Photography/Videography)'**
 
 I'm Data Analyst and an Artist. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code and art.
 <br />
