@@ -53,6 +53,14 @@ from planning and designing all the way to solving real-life problems with code 
 
 ---
 <br/>
+
+### **Recent Project!: Stock Market Lab**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stockmarketlab.streamlit.app)
+
+*A web application for analyzing stocks news, run monte-carlo simulation and calculate dcf. built with Streamlit.*
+
+![stock market lab](https://github.com/karma-gits/stockMarketLab/blob/c7d04a02da27bcc41b9220b324bf5344b373fd89/data/portfolio.png)
+
 <details>
  <summary><h3>👨‍💻 Karma's Journey</h3></summary>
    For more:
